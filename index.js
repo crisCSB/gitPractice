@@ -1,1 +1,1 @@
-alert("yo yo yo");
+alert("this is second");
